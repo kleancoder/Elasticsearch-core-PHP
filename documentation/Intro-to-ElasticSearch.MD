@@ -65,6 +65,18 @@ Logstash is a server-side data processing pipeline which enables us
 to ingest data from multiple sources simultaneously and enrich and 
 transform it before it is indexed into Elasticsearch. 
 
+Logstash is one of the core products of the Elastic Stack, which 
+being used to aggregate and process data and send it to Elasticsearch. 
+
+# What is Kibana? 
+
+Kibana is also a core part products of Elasticsearch which is used 
+as data visualizatoin and management tool that provides real time 
+histograms, maps, different kind of charts, line graphs and more. 
+
+Kibana also includes Canvas; it allows users to create custom dynamic
+infographics based on their data. 
+
 
 
 
